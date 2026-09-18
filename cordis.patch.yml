@@ -1,0 +1,4 @@
+- insert:
+    - id: agent-identity-ops
+      name: dsh-identity-ops
+      config: {}
