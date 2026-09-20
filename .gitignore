@@ -5,3 +5,4 @@ data/
 .dsh/
 *.bak
 *.bak-*
+node_modules
